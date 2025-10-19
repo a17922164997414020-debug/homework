@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (Lab3.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
-  main.c
-  Lab3.vcxproj -> C:\Users\n1271\OneDrive\桌面\homework\225\lab3\lab3\x64\Debug\homework1.exe
